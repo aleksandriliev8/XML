@@ -1,0 +1,10 @@
+<name> <!-- element content -->
+    <first>John</first> <!--simple content-->
+    <middle>Fitzgerald Johansen</middle>
+    <last>Doe</last>
+</name>
+
+<doc>
+    <parent>this is some <em>text</em> in
+    my element</parent> <!--mixed content-->
+</doc>
