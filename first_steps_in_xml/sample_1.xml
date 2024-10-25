@@ -3,8 +3,7 @@
     <middle>Fitzgerald Johansen</middle>
     <last>Doe</last>
 </name>
-
-<doc>
+<!--<doc>
     <parent>this is some <em>text</em> in
-    my element</parent> <!--mixed content-->
-</doc>
+    my element</parent> mixed content
+</doc>-->
